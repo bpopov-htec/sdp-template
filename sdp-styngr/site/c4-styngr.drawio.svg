@@ -1,0 +1,37 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="411px" height="231px" viewBox="-0.5 -0.5 411 231" content="&lt;mxfile&gt;&lt;diagram id=&quot;J9pZf6Xaerx5NkRF3dxO&quot; name=&quot;Page-1&quot;&gt;xZXJbqQwEIafhmsEuJumj0lnO8xIkfowM0cHKmDJUMiYBvL0Y9rFYpFkttbkAq7fv7ePcuGxQ9E9KF7lXzEF6YV+2nns1gvDfRya5yD0VthEzAqZEqmVglk4ilcg0Se1ESnUjlEjSi0qV0ywLCHRjsaVwta1vaB0V614BivhmHC5Vr+JVOdWjcPdrD+CyPJx5SDa256Cj2Y6SZ3zFNuFxO48dlCI2raK7gByYDdysePu3+mdNqag1L8zYEvb0P14NkjNUSkssTSvm1wX0kSBaZppVf/dBP6Vvw9H4cdZ2LJ4FG6HL+1PUb+MnkCJAjQoEu0OhmXfPQNJNTYqIRdlkOYqA3JtJn4m7wDNGqo3FgWSa3FyZ+eUAdnkmyGZBnF6m1n0t8wCl9du+6m42H/CRUufuGxo0utEo1pBNFehGppNIa2B3ZxAaWGu3Rf+DPIJa6EFlsbyjFpjsTBcS5ENHRorlz02WooSDlMhmBEOY6H7GOIaDw1gPl1gqmA7Ctu5HDCS8kUliPx/58lWPNf5KKUphUMatrnQcKz4OQ9aU4xdPLyuLJYX0UF6GTTBzkUT+ms28Rts4guw2fwJmzHhEolN+mtWF0CziVw02zWZILwMGhPOf5Fz3+JXzO5+Ag==&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <path d="M 160 49.33 L 294.68 43.32" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 299.92 43.09 L 293.09 46.9 L 294.68 43.32 L 292.77 39.91 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 132.81 80 L 82.4 204.1" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 80.42 208.96 L 79.81 201.16 L 82.4 204.1 L 86.3 203.8 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <ellipse cx="145" cy="27.5" rx="7.5" ry="7.5" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <path d="M 145 35 L 145 60 M 145 40 L 130 40 M 145 40 L 160 40 M 145 60 L 130 80 M 145 60 L 160 80" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 87px; margin-left: 145px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: nowrap;">
+                                Actor
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="145" y="99" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Actor
+                </text>
+            </switch>
+        </g>
+        <ellipse cx="40" cy="190" rx="40" ry="40" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <path d="M 320 20 C 296 20 290 40 309.2 44 C 290 52.8 311.6 72 327.2 64 C 338 80 374 80 386 64 C 410 64 410 48 395 40 C 410 24 386 8 365 16 C 350 4 326 4 320 20 Z" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Viewer does not support full SVG 1.1
+            </text>
+        </a>
+    </switch>
+</svg>
